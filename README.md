@@ -7,7 +7,7 @@ This is the backend that will serve the curriculum project with information
 First just
 
 ```
-git clone https://github.com/joaopedrodcf/blog.git
+git clone https://github.com/joaopedrodcf/curriculum-backend.git
 ```
 
 Then
