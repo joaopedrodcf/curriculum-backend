@@ -34,3 +34,4 @@ You need to install Node.js
 * [node](https://github.com/nodejs/node) - Node.js JavaScript runtime
 * [nodemailer](https://github.com/nodemailer/nodemailer) - Send e-mails with Node.JS – easy as cake!
 * [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
+* [dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
