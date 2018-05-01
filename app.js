@@ -3,7 +3,7 @@ const express = require('express');
 
 const app = express();
 
-const EmailController = require('./EmailController');
+const EmailController = require('./controllers/emailController');
 
 const cors = require('cors');
 

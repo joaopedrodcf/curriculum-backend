@@ -28,6 +28,11 @@ Now its ready to use
 
 You need to install Node.js
 
+### Heroku
+
+This webapp is deployed in heroku , watchout for the change names to lower case!
+for example EmailController.js turns in emailController.js
+
 ## Built With
 
 * [npm](https://github.com/npm/npm) - Package manager for javascript
