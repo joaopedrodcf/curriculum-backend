@@ -3,7 +3,6 @@ const express = require('express');
 const router = express.Router();
 const bodyParser = require('body-parser');
 const nodemailer = require('nodemailer');
-require('dotenv').config();
 
 const user = process.env.GMAIL_USER;
 const pass = process.env.GMAIL_PASSWORD;
